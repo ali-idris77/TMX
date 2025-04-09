@@ -1,0 +1,6 @@
+let putA = document.getElementById('put1')
+let putS = document.getElementById('passw')
+let putD = document.getElementById('mitter')
+let autherG = document.getElementsByClassName('google')
+let autherA = document.getElementById('apple')
+let autherF = document.getElementById('facebook')
